@@ -4,6 +4,7 @@ import CheckSharpIcon from '@mui/icons-material/CheckSharp';
 import CloseIcon from '@mui/icons-material/Close';
 import './MembershipCard.css'
 import TooltipShow from './TooltipShow';
+import DiamondOutlined from '@mui/icons-material/DiamondOutlined';
 
 export default function Card() {
   return (
@@ -67,7 +68,7 @@ export default function Card() {
         </div>
         <div className="col">
           <div className="card card-shadow">
-            <h3 className="card-header premium-head">PREMIUM</h3>
+            <h3 className="card-header premium-head"><DiamondOutlined fontSize="medium" />&nbsp; PREMIUM</h3>
             <div className="card-body">
               <div className="button-head">
                 <button type="button" className="btn premium-button">Upgrade to premium</button>
