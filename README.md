@@ -1,4 +1,58 @@
-# Getting Started with Create React App
+<div align="center">
+  <a href="https://github.com/aayush-004v/quillbot-assignment-react">
+    <img src="[https://yt3.ggpht.com/AgtE50BUN4tMsGp9lwAQgOQ9hJtC9jpl5I-PV_uUusxJBMjRVE2UXCUKTrbn2bg57q1xmwn9Jg=s900-c-k-c0x00ffffff-no-rj](https://static.wikia.nocookie.net/logopedia/images/c/c0/QuillBot_2019_%28Icon%29.png/revision/latest/scale-to-width-down/250?cb=20221006131751)" alt="QuillBot" width="80" height="80">
+  </a>
+  </div>
+
+<h3 align="center">QUILLBOT Assignment React</h3>
+  <p>
+   This is an assignment on quillbot premium UI webpage. It shows the different subscription plans and also the features of the plan.Its plan is divided into two category -> 1) Free and 2) Premium.
+  </p>
+  <p align="center">Click below for project demo</p>
+  <h4 align="center"><a href="https://quillbot-assignment-react-avi.vercel.app/" tagret="_blank">Project Demo</a>
+</h4>
+</div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <a href="#available-scripts">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+## About The Project
+
+   This is an assignment on quillbot premium UI webpage. It shows the different subscription plans and also the features of the plan.Its plan is divided into two category -> 1) Free and 2) Premium.
+   
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+* HTML 
+* CSS
+* React
+* Bootstrap
+* Material UI
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Getting Started with create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,32 +93,21 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Contributing
+
+<h4>Aayush Verma</h4>
+
+<p> Project Link: https://github.com/aayush-004v/quillbot-assignment-react</p>
+<p> Hosted Link : https://quillbot-assignment-react-avi.vercel.app/" </p>
+
+
+## Contact
+
+  <h4>Email</h4> aayush2293@gmail.com
+  <h4> LinkedIn Profile </h4> https://www.linkedin.com/in/aayush-verma-b62a0b20a/
+  
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
