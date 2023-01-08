@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aayush-004v/quillbot-assignment-react">
-    <img src="[https://yt3.ggpht.com/AgtE50BUN4tMsGp9lwAQgOQ9hJtC9jpl5I-PV_uUusxJBMjRVE2UXCUKTrbn2bg57q1xmwn9Jg=s900-c-k-c0x00ffffff-no-rj](https://static.wikia.nocookie.net/logopedia/images/c/c0/QuillBot_2019_%28Icon%29.png/revision/latest/scale-to-width-down/250?cb=20221006131751)" alt="QuillBot" width="80" height="80">
+    <img src="https://theme.zdassets.com/theme_assets/10078588/c6614e632104d31fdf03c8008ddfb5dece523b86.png" alt="QuillBot" width="80" height="80">
   </a>
   </div>
 
