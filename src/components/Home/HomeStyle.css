@@ -1,0 +1,13 @@
+.btnSignUp{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.signUp-button{
+    width: 300px !important;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+ }

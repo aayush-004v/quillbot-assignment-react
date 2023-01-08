@@ -1,0 +1,83 @@
+.free-head {
+  background-color: #499557;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.premium-head {
+  background-color: #dc9e00;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.card-shadow{
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.list li{
+  height: 64px;
+}
+
+.sign-up-button {
+  width: 90%;
+  border-radius: 20px;
+  margin: 20px auto;
+  background-color: #499557;
+  color: #ffffff;
+  border-style: none;
+  font-weight: 500;
+}
+
+.button-head{
+  width: 100%;
+  text-align: center;
+}
+
+.sign-up-button:hover {
+  cursor: pointer;
+  background-color: rgb(22, 131, 42);
+  color: #fff !important;
+}
+
+.premium-button {
+  width: 90%;
+  border-radius: 20px;
+  margin: 20px auto;
+  background-color: #dc9e00;
+  color: #ffffff;
+  border-style: none;
+  font-weight: 500;
+}
+
+.premium-button:hover {
+  cursor: pointer;
+  background-color: #dbb043;
+  color: #fff !important;
+}
+
+.card__container {
+  display: flex;
+  justify-content: center;
+}
+
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-group-item{
+  padding: 15px;
+}
+
+.card-footer{
+  text-align: center;
+  font-weight: 600;
+}
+
+.card-body {
+  padding: 0%;
+}
+
+.footer-bottom{
+  padding-top: 12px;
+}
