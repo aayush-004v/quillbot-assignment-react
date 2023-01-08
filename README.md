@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aayush-004v/quillbot-assignment-react">
-    <img src="https://theme.zdassets.com/theme_assets/10078588/c6614e632104d31fdf03c8008ddfb5dece523b86.png" alt="QuillBot" width="80" height="80">
+    <img src="https://theme.zdassets.com/theme_assets/10078588/c6614e632104d31fdf03c8008ddfb5dece523b86.png" alt="QuillBot" width="200" height="80">
   </a>
   </div>
 
