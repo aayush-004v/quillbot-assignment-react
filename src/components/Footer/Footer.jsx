@@ -12,19 +12,19 @@ function CircularProgressWithLabel(props) {
 
   useEffect(() => {
     if (circular < 75) {
-      setTimeout(() => setCircular((prevTime) => (prevTime += 1)), 19)
+      setTimeout(() => setCircular((prevTime) => (prevTime += 1)), 20)
     }
     if (secondCircular < 50) {
-      setTimeout(() => setSecondCircular((prevTime) => (prevTime += 1)), 22)
+      setTimeout(() => setSecondCircular((prevTime) => (prevTime += 1)), 21)
     }
     if (secondCircularProgress < 100) {
       setTimeout(
         () => setSecondCircularProgress((prevTime) => (prevTime += 1)),
-        19,
+        21,
       )
     }
     if (thirdCircular < 85) {
-      setTimeout(() => setThirdCircular((prevTime) => (prevTime += 1)), 19)
+      setTimeout(() => setThirdCircular((prevTime) => (prevTime += 1)), 20)
     }
   }, [circular, secondCircular, thirdCircular, secondCircularProgress])
 
