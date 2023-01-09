@@ -15,7 +15,7 @@ function CircularProgressWithLabel(props) {
       setTimeout(() => setCircular((prevTime) => (prevTime += 1)), 19)
     }
     if (secondCircular < 50) {
-      setTimeout(() => setSecondCircular((prevTime) => (prevTime += 1)), 18)
+      setTimeout(() => setSecondCircular((prevTime) => (prevTime += 1)), 22)
     }
     if (secondCircularProgress < 100) {
       setTimeout(
